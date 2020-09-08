@@ -2,6 +2,7 @@
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/manipulation/tb3_with_opm_logo.png">
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/manipulation/hardware_setup.png">
 
+**THIS PACKAGE IS DEPRECATED**
 
 ## ROS Packages for OpenManipulator with TurtleBot3
 |Version|Kinetic + Ubuntu Xenial|Melodic + Ubuntu Bionic|
